@@ -10,9 +10,11 @@
 #### 6. Communication Protocol: WebSocket
 
 # Back-end
+
 ![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/search.gif)
-*Three-tier architecture
-*Interface implementation in a repository
-*Extension methods for ToVM and ToDTO conversions
-*Private access modifier in a controller for data storage
-*Constructor injection for initialization
+
+* Three-tier architecture
+* Interface implementation in a repository
+* Extension methods for ToVM and ToDTO conversions
+* Private access modifier in a controller for data storage
+* Constructor injection for initialization
