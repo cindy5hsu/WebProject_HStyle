@@ -19,3 +19,5 @@
 #### 4. Data Access Technology: Entity Framework
 #### 5. Third-Party API Integration: PayPal, Central Weather Bureau
 #### 6. Communication Protocol: WebSocket
+
+![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/search.gif)
