@@ -11,3 +11,11 @@
 #### 4. 資料存取技術： Entity Framework
 #### 5. 第三方API串接：PayPal、中央氣象局
 #### 6. 通訊協定：Websocket
+
+# Technologies Used
+#### 1. Backend: ASP.NET MVC
+#### 2. Frontend: .NET Core Web API + Vue
+#### 3. Database: SQL Server
+#### 4. Data Access Technology: Entity Framework
+#### 5. Third-Party API Integration: PayPal, Central Weather Bureau
+#### 6. Communication Protocol: WebSocket
