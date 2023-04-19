@@ -24,7 +24,7 @@
 ![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/create.gif)
 
 * Content Encryption and Image Encoding with CKEditor
- * Utilized CKEditor as an editor to prevent code injection and HTML tags in the content
- * Encrypted the content with a secure algorithm before storing it in the database to prevent attacks
- * Used base64 encoding to encode images in the content
- * Decoded the base64-encoded images before rendering the content on the website
+  * Utilized CKEditor as an editor to prevent code injection and HTML tags in the content
+  * Encrypted the content with a secure algorithm before storing it in the database to prevent attacks
+  * Used base64 encoding to encode images in the content
+  * Decoded the base64-encoded images before rendering the content on the website
