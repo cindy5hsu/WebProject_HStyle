@@ -36,3 +36,7 @@
 * Scheduling the promotion, video, and article releases
 * Using the built-in Windows Task Scheduler to schedule the daily promotion, video, and article release tasks
 * The built-in Windows Task Scheduler runs daily and strictly follows the specified publish and unpublish times for releases.
+
+# H'Style Luxury Fashion Platform 
+
+！[img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/website.gif)
