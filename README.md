@@ -47,7 +47,7 @@
 * Titles are set to display only a specified length.
 * Date is displayed at the bottom of each card, and registered users can bookmark individual content.
 
-#Blog website homepage
+# Blog website homepage
 
 ![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/blogepage.gif)
 
