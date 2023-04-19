@@ -21,7 +21,7 @@
 
 # Add a new blog post
 
-![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/create.gif)
+(https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/create.gif)
 
 * Content Encryption and Image Encoding with CKEditor
   * Utilized CKEditor as an editor to prevent code injection and HTML tags in the content
@@ -39,4 +39,4 @@
 
 # H'Style Luxury Fashion Platform 
 
-！[img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/website.gif)
+![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/website.gif)
