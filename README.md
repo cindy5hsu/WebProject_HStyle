@@ -1,6 +1,8 @@
 # H'Style 精品服飾網站
 #### 期許著能夠提供高級精品興趣受眾購買、并且提供部落格文章及影音穿搭構想，出版最精美、最具影響力的雜誌、個人化、天氣專屬推薦穿搭購物平臺。
 
+# H'Style Luxury Fashion Platform
+#### Our aim is to provide a platform for fashion enthusiasts to purchase high-end premium products. We offer a fashion blog with articles and videos for outfit inspiration, as well as the publication of the most exquisite and influential magazine. Our website provides personalized weather-based recommendations for outfit ideas and an online shopping platform.
 
 # 使用到的技術
 #### 1. 後臺：ASP.NET MVC
