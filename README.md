@@ -28,3 +28,11 @@
   * Encrypted the content with a secure algorithm before storing it in the database to prevent attacks
   * Used base64 encoding to encode images in the content
   * Decoded the base64-encoded images before rendering the content on the website
+
+# Daily scheduled tasks
+
+![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/daily%20update.png)
+
+* Scheduling the promotion, video, and article releases
+* Using the built-in Windows Task Scheduler to schedule the daily promotion, video, and article release tasks
+* The built-in Windows Task Scheduler runs daily and strictly follows the specified publish and unpublish times for releases.
