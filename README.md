@@ -41,8 +41,8 @@
 
 ![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/website.gif)
 
-* Home page with slide images and fixed elements for a unique visual effect.
-* A button on each page for quick navigation to the top of the page.
-* Floating images when hovering over article cards
-* Gray background added to tags Titles is set to display only a specified length.
-* The date is displayed at the bottom of each card, and registered users can bookmark individual content.
+* The header is set to stick to the top and scroll with the page.
+* Home page features slide images and fixed elements for a unique visual effect.
+* Floating images added to article cards when hovering over them.
+* Titles are set to display only a specified length.
+* Date is displayed at the bottom of each card, and registered users can bookmark individual content.
