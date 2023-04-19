@@ -49,7 +49,7 @@
 
 #Blog website homepage
 
-![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/blogepage.gif）
+![img]（https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/blogepage.gif）
 
 * Homepage features a Bootstrap carousel and displays the latest four articles and videos.
 * The page is divided into three columns to create a distinctive visual effect. The left column features an image that scrolls in sync with the page, while the right two columns scroll normally.
