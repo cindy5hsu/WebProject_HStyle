@@ -54,3 +54,11 @@
 * Homepage features a Bootstrap carousel and displays the latest four articles and videos.
 * The page is divided into three columns to create a distinctive visual effect. The left column features an image that scrolls in sync with the page, while the right two columns scroll normally.
 * The columns listen to the container element's scroll event and obtain the scrolling distance using scrollTop.
+
+# Favorites, Reviews, and Product Recommendations
+
+![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/like%26comment.gif)
+
+* Bookmarks: Users must log in to bookmark their favorite articles. All bookmarks can be viewed by clicking on the "Bookmarks" button in the top right corner.
+* Product Recommendations: When viewing an individual article, recommended products will continuously scroll to the bottom of the page as the user navigates.
+* Comments: A comment section is available below each article for users to provide feedback and engage with other readers. Users can also like comments that they find helpful or interesting.
