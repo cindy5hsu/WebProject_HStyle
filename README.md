@@ -46,3 +46,11 @@
 * Floating images added to article cards when hovering over them.
 * Titles are set to display only a specified length.
 * Date is displayed at the bottom of each card, and registered users can bookmark individual content.
+
+#Blog website homepage
+
+![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/blogepage.gif）
+
+* Homepage features a Bootstrap carousel and displays the latest four articles and videos.
+* The page is divided into three columns to create a distinctive visual effect. The left column features an image that scrolls in sync with the page, while the right two columns scroll normally.
+* The columns listen to the container element's scroll event and obtain the scrolling distance using scrollTop.
