@@ -19,7 +19,7 @@
 * Private access modifier in a controller for data storage
 * Constructor injection for initialization
 
-# Add a new blog post
+# New Blog post
 
 ![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/create.gif)
 
@@ -29,7 +29,7 @@
   * Used base64 encoding to encode images in the content
   * Decoded the base64-encoded images before rendering the content on the website
 
-# Daily scheduled tasks
+# Daily Scheduled Tasks
 
 ![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/daily%20update.png)
 
@@ -47,7 +47,7 @@
 * Titles are set to display only a specified length.
 * Date is displayed at the bottom of each card, and registered users can bookmark individual content.
 
-# Blog website homepage
+# Blog Website Homepage
 
 ![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/blogepage.gif)
 
