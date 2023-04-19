@@ -41,7 +41,7 @@
 
 ![img](https://github.com/cindy5hsu/WebProject_HStyle/blob/master/SQL%20server/website.gif)
 
-* Sliding images with fixed elements for a unique visual effect.
+* Home page with slide images and fixed elements for a unique visual effect.
 * A button on each page for quick navigation to the top of the page.
 * Floating images when hovering over article cards
 * Gray background added to tags Titles is set to display only a specified length.
